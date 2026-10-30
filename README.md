@@ -1,9 +1,28 @@
 
 <!-- =============== PROFILE HEADER =============== -->
 
-<div align="center">
+Create a premium, ultra-wide GitHub profile banner for a developer portfolio with a dark futuristic cyber-tech aesthetic.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0B1F40,100:0077FF&height=200&section=header&text=PREM%20POLAI&fontSize=52&fontColor=60A5FA&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%2FML%20%7C%20CYBERSECURITY&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Futuristic blue profile banner" />
+**Main text:** PREM POLAI
+
+**Subtitle:** SOFTWARE DEVELOPER | AI/ML | CYBERSECURITY
+
+**Visual style:**
+- Deep black and midnight navy background.
+- Electric blue, cyan, and subtle neon gradients.
+- Glowing circuit-board patterns and futuristic HUD elements.
+- Abstract AI neural network visualization on the left.
+- Holographic cybersecurity shield and digital lock on the right.
+- Subtle programming code, binary data, and geometric light trails.
+- Strong cinematic lighting, crisp details, elegant symmetry, and premium 3D depth.
+
+**Typography:** Large, bold, modern futuristic sans-serif font. Render “PREM POLAI” in white transitioning into electric cyan. Keep the subtitle smaller, uppercase, and clearly readable.
+
+**Composition:** Keep all important text centered in a clean, uncluttered safe area. Leave enough negative space around the title. Make the banner extremely wide and short, suitable for a GitHub profile README header.
+
+**Color palette:** #020617, #071B35, #005BFF, #00D9FF, and white.
+
+**Quality:** Professional developer branding, high contrast, ultra-sharp details, polished cinematic finish, no people, no logos, no watermark, no extra text, no spelling errors.
 
 # `> Hello, World!` 👋
 
