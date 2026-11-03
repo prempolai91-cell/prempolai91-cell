@@ -1,13 +1,15 @@
 # 👋 Hi, I'm Prem Polai
 
-### AI/ML Enthusiast | Software Developer | Cybersecurity Explorer
+<h3 align="center">
+  AI/ML Enthusiast | Software Developer | Cybersecurity Explorer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Building+Intelligent+Applications;Exploring+Artificial+Intelligence;Machine+Learning+%7C+Software+Development;Cybersecurity+%7C+Innovation" alt="Typing SVG" />
+  <img src="assets/profile-banner.png" width="100%" alt="Prem Polai - Think | Build | Innovate"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B73,100:00BFFF&height=190&section=header&text=PREM%20POLAI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Think%20%7C%20Build%20%7C%20Innovate&descAlignY=60&descSize=18" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Universe!;Exploring+Artificial+Intelligence;Building+Intelligent+Applications;Machine+Learning+%7C+Deep+Learning;Software+Development+%7C+Cybersecurity;Think+%7C+Build+%7C+Innovate" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -15,135 +17,157 @@
     <img src="https://komarev.com/ghpvc/?username=prempolai91-cell&label=PROFILE+VIEWS&color=007BFF&style=for-the-badge" alt="Profile Views"/>
   </a>
   <a href="https://github.com/prempolai91-cell?tab=followers">
-    <img src="https://img.shields.io/github/followers/prempolai91-cell?label=Followers&style=for-the-badge&color=00BFFF" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/prempolai91-cell?style=for-the-badge&color=00BFFF&label=FOLLOWERS" alt="Followers"/>
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🌌 ABOUT ME
 
-Hello! I'm **Prem Polai**, a technology enthusiast passionate about building intelligent applications and exploring emerging technologies.
+Hello! I'm **Prem Polai**, a technology enthusiast passionate about Artificial Intelligence, Machine Learning, Software Development, and Cybersecurity.
 
-I'm particularly interested in Artificial Intelligence, Machine Learning, Software Development, and Cybersecurity.
+I enjoy exploring emerging technologies and transforming ideas into practical software solutions.
 
 - 🤖 Exploring Artificial Intelligence and Machine Learning.
-- 🧠 Learning Neural Networks, Deep Learning, and Generative AI.
-- 💻 Building practical software and intelligent applications.
+- 🧠 Learning Neural Networks and Deep Learning.
+- ✨ Interested in Generative AI, LLMs, and RAG.
+- 💻 Building intelligent applications and software tools.
 - 🛡️ Exploring Cybersecurity and Ethical Hacking.
-- 📱 Interested in Android and Full-Stack Development.
-- 🎨 Passionate about modern UI/UX and user experiences.
-- 🚀 Always learning, experimenting, and building new things.
+- 📱 Developing Android applications.
+- 🎨 Interested in modern UI/UX design.
+- 🚀 Learning continuously through practical projects.
 
-**My mission:** Turn innovative ideas into practical technology solutions.
+**My vision:** Build intelligent, innovative, and impactful technology solutions.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# ⚡ TECH STACK & TECHNOLOGIES
 
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,kotlin,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,kotlin,html,css" alt="Programming Languages"/>
 </p>
 
 ### 🤖 AI & Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit Learn"/>
 </p>
+
+**Areas of Interest:**
+- Machine Learning
+- Neural Networks
+- Deep Learning
+- Generative AI
+- Large Language Models
+- Retrieval-Augmented Generation
 
 ### 🌐 Web & Application Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,kotlin,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" alt="Web Development"/>
+</p>
+
+### 📱 Android Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" alt="Android Development"/>
 </p>
 
 ### 🗄️ Database & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=supabase,firebase" />
+  <img src="https://skillicons.dev/icons?i=supabase,firebase" alt="Database Technologies"/>
 </p>
 
-### 🔧 Development Tools
+### 🔐 Cybersecurity & Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,vscode,git,github" alt="Development Tools"/>
 </p>
 
-### 🔐 Cybersecurity
-
-<p>
-  <img src="https://skillicons.dev/icons?i=kali,bash,linux" />
-  <img src="https://img.shields.io/badge/Ethical_Hacking-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
-</p>
+**Cybersecurity Interests:**
+- Ethical Hacking
+- Network Reconnaissance
+- Digital Forensics
+- Penetration Testing
+- Security Awareness
 
 ---
 
-## 🔥 Featured Projects
+# 🚀 FEATURED PROJECTS
 
-Here are some of the projects I'm building and exploring.
+Here are some of the projects I'm developing and exploring.
 
-### 🤖 ML Studio Copilot
+### 🤖 01. ML Studio Copilot
 
-An AI-powered machine learning workspace designed to bring dataset analysis and ML workflows directly into Visual Studio Code.
+An AI-powered machine learning workspace for Visual Studio Code.
 
-**Focus:** Python, TypeScript, Pandas, Scikit-learn, AI Integration.
+**Highlights:**
+- Dataset exploration and profiling.
+- Automated numerical statistics.
+- Python-powered ML engine.
+- Classification workflows.
+- Hosted AI integration.
 
-### 🛡️ Android Pentest Lab
+**Technologies:** Python, TypeScript, Pandas, Scikit-learn.
 
-An Android application project focused on building a cybersecurity and penetration-testing learning environment.
+### 🛡️ 02. Android Pentest Lab
 
-**Focus:** Kotlin, Android Studio, Jetpack Compose.
+An Android application project focused on cybersecurity education and penetration-testing workflows.
 
-### 🔍 Digital Forensics Investigation
+**Technologies:** Kotlin, Android Studio, Jetpack Compose.
 
-A project focused on digital forensics concepts and investigation workflows.
+### 🔍 03. Digital Forensics Investigation
 
-### 🎣 Phishing Awareness Simulator
+A project focused on digital forensic investigation concepts, evidence analysis, and cybersecurity workflows.
 
-A cybersecurity awareness project focused on understanding phishing techniques and improving security awareness.
+### 🎣 04. Phishing Awareness Simulator
 
-### 🌐 CyberRecon Port Scanner
+A cybersecurity awareness project designed to demonstrate phishing concepts and promote safer digital practices.
 
-A cybersecurity project focused on network reconnaissance and port-scanning concepts.
+### 🌐 05. CyberRecon Port Scanner
 
-### 💼 My Portfolio
+A network reconnaissance project focused on port-scanning concepts and network security exploration.
 
-A personal portfolio showcasing my development projects, technical interests, and professional profile.
+### 💼 06. Personal Portfolio
+
+A personal developer portfolio showcasing projects, technical interests, and professional development.
 
 <p align="center">
   <a href="https://github.com/prempolai91-cell?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-007BFF?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-007BFF?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prempolai91-cell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prempolai91-cell&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00BFFF&text_color=FFFFFF" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=prempolai91-cell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&rank_icon=github" alt="GitHub Statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prempolai91-cell&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=prempolai91-cell&theme=tokyonight&hide_border=true&background=00000000&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" width="70%" alt="GitHub Streak"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prempolai91-cell&bg_color=00000000&color=00BFFF&line=007BFF&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Contribution%20Activity" width="100%" alt="Contribution Graph"/>
+  <img src="https://streak-stats.demolab.com?user=prempolai91-cell&theme=tokyonight&hide_border=true&background=00000000&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="75%" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+# 📈 CONTRIBUTION ACTIVITY
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prempolai91-cell&bg_color=0D1117&color=00D4FF&line=007BFF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph"/>
+</p>
+
+---
+
+# 🏆 GITHUB TROPHIES
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=prempolai91-cell&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%" alt="GitHub Trophies"/>
@@ -151,20 +175,24 @@ A personal portfolio showcasing my development projects, technical interests, an
 
 ---
 
-## 🎯 Currently Exploring
+# 🧠 CURRENTLY EXPLORING
 
-| Area | Learning Focus |
+| Domain | Focus Areas |
 |---|---|
-| 🤖 Artificial Intelligence | AI Engineering and intelligent applications |
+| 🤖 Artificial Intelligence | AI Engineering and Intelligent Applications |
 | 🧠 Machine Learning | Neural Networks and Deep Learning |
-| ✨ Generative AI | LLMs, RAG and AI-powered tools |
-| 💻 Software Development | Application architecture and development |
-| 🛡️ Cybersecurity | Penetration Testing and Digital Forensics |
+| ✨ Generative AI | LLMs and RAG |
+| 💻 Software Engineering | Application Architecture and Development |
+| 🛡️ Cybersecurity | Ethical Hacking and Penetration Testing |
 | 📱 Android Development | Kotlin and Jetpack Compose |
 
 ---
 
-## 💡 My Developer Mindset
+# 💡 MY DEVELOPER PHILOSOPHY
+
+<p align="center">
+  <img src="https://img.shields.io/badge/THINK-BUILD-INNOVATE-007BFF?style=for-the-badge&labelColor=05070D" alt="Think Build Innovate"/>
+</p>
 
 > "Great technology is not just about writing code. It's about solving real-world problems through creativity, innovation, and continuous learning."
 
@@ -172,25 +200,32 @@ I believe in learning by building, experimenting with new technologies, and crea
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 CONNECT WITH ME
 
 <p align="center">
   <a href="https://github.com/prempolai91-cell">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <!-- Add your verified LinkedIn URL here -->
-  <!-- Add your portfolio URL here -->
-  <!-- Add your professional email here -->
+</p>
+
+<p align="center">
+  💬 Open to learning, collaboration, and exciting technology projects.
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:003B73,100:000000&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B73,100:00BFFF&height=130&section=footer" width="100%" alt="Footer"/>
 </p>
 
-<h3 align="center">⚡ BUILDING INTELLIGENT SOLUTIONS, ONE PROJECT AT A TIME. ⚡</h3>
+<h3 align="center">
+  ⚡ BUILDING INTELLIGENT SOLUTIONS, ONE PROJECT AT A TIME. ⚡
+</h3>
 
 <p align="center">
-  <b>Thanks for visiting my profile! Let's connect and build something amazing. 🚀</b>
+  <b>Think | Build | Innovate 🚀</b>
+</p>
+
+<p align="center">
+  Thanks for visiting my GitHub universe!
 </p>
