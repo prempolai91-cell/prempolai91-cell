@@ -1,34 +1,215 @@
-<div align="center">
+<p align="center">
 
-  <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2&height=220&section=header&text=Prem%20Polai&fontSize=62&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20%26%20Automation%20Architect&descFontSize=20&descAlignY=60&theme=tokyonight" width="100%" alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Prem.;Software+Developer;AI+%26+Automation+Enthusiast;Problem+Solver;Building+Meaningful+Projects" alt="Typing SVG" />
 
-  <!-- Animated Subtitles -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=9333EA&center=true&vCenter=true&width=650&lines=Building+Production-Ready+Web+Architectures;Engineering+Intelligent+AI+%26+Automation+Pipelines;Crafting+High-Performance+Modern+UI%2FUX;Transforming+Complex+Problems+Into+Scalable+Products" alt="Typing SVG" />
+</p>
+
+
+
+<h3 align="center">🚀 Developer • Builder • Tech Enthusiast</h3>
+
+
+
+<p align="center">
+
+  <a href="https://github.com/prempolai91-cell">
+
+    <img src="https://img.shields.io/badge/GitHub-prempolai91--cell-181717?style=for-the-badge&logo=github" />
+
   </a>
 
-  <p align="center">
-    <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:prempolai91@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/prempolai91-cell"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
-  </p>
+  <a href="mailto:your-email@example.com">
 
-  <!-- Profile Visitor Counter & Metrics Badge -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=prempolai91-cell&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Code%20Quality-Enterprise-blue?style=flat-square" alt="Quality" />
-    <img src="https://img.shields.io/badge/Uptime-99.9%25-brightgreen?style=flat-square" alt="Uptime" />
-  </p>
+    <img src="https://img.shields.io/badge/Email-Contact-FF4D4D?style=for-the-badge&logo=gmail" />
 
-</div>
+  </a>
+
+  <a href="https://linkedin.com/in/yourprofile">
+
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+
+  </a>
+
+</p>
+
+
+
+<p align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=prempolai91-cell&label=Profile%20Views&color=7C3AED&style=flat-square" />
+
+</p>
+
+
 
 ---
 
-### ⚡ Executive Summary
 
-```yaml
-role: Full-Stack Engineer & Automation Specialist
-focus_areas: [Distributed Web Apps, Intelligent Automation, Cloud Architecture]
-design_philosophy: Clean Architecture • High Performance • Pixel-Perfect UI
-availability: Open to Strategic Engineering Roles & High-Impact Collaborations
+
+## About Me
+
+
+
+I’m a passionate developer focused on building practical, scalable, and innovative digital solutions.  
+
+I enjoy solving real-world problems through clean code, modern architecture, and continuous learning.
+
+
+
+💡 Core interests: Software Development, AI, Automation, Web Technologies
+🛠️ Currently exploring: product-building, workflow automation, intelligent systems
+🎯 Goal: create meaningful projects that combine usefulness, elegance, and impact
+
+
+---
+
+
+
+## Tech Stack
+
+
+
+<p align="left">
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+</p>
+
+
+
+---
+
+
+
+## Featured Projects
+
+
+
+### 🧠 Project One
+
+A modern solution designed to solve a meaningful problem with efficient architecture and a polished user experience.
+
+
+
+Tech: Python / JavaScript / APIs
+Focus: usability, performance, scalable design
+Status: Active development
+
+
+### ⚙️ Project Two
+
+A practical product centered around automation, productivity, or intelligent workflows.
+
+
+
+Tech: React / Node.js / Database
+Focus: workflow optimization and user-centric design
+Status: In progress
+
+
+### 🚀 Project Three
+
+A personal innovation space for experimenting with AI, automation, and product ideas.
+
+
+
+Tech: Python / ML / APIs
+Focus: learning, prototyping, building smart tools
+Status: Research & experiments
+
+
+---
+
+
+
+## GitHub Analytics
+
+
+
+<p align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prempolai91-cell&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prempolai91-cell&layout=compact&theme=radical&hide_border=true" />
+
+</p>
+
+
+
+<p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prempolai91-cell&theme=radical&hide_border=true" />
+
+</p>
+
+
+
+---
+
+
+
+## Current Focus
+
+
+
+Building useful and scalable products
+Learning advanced software engineering practices
+Exploring AI and intelligent automation workflows
+Improving design, code quality, and product thinking
+
+
+---
+
+
+
+## Let's Connect
+
+
+
+<p align="center">
+
+  <a href="https://github.com/prempolai91-cell">
+
+    <img src="https://img.shields.io/badge/GitHub-@prempolai91--cell-181717?style=for-the-badge&logo=github" />
+
+  </a>
+
+  <a href="https://linkedin.com/in/yourprofile">
+
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
+
+  </a>
+
+</p>
+
+
+
+<p align="center">
+
+  <i>“Turning ideas into useful digital experiences.”</i>
+
+</p>
