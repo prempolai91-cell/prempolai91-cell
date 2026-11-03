@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="150" viewBox="0 0 1600 150" role="img" aria-labelledby="title desc">
+  <title id="title">Atomic energy wave</title>
+  <desc id="desc">A minimal futuristic blue and cyan wave with glowing particles.</desc>
+  <defs>
+    <linearGradient id="wave" x1="0" x2="1"><stop stop-color="#007BFF"/><stop offset=".55" stop-color="#00E5FF"/><stop offset="1" stop-color="#8A5CFF"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1600" height="150" fill="#05070D"/>
+  <path d="M0 90C180 25 300 140 490 82s319-51 468 2 247 70 385 6 179-28 257-7v67H0Z" fill="#007BFF" fill-opacity=".12"/>
+  <path d="M0 83C180 18 300 133 490 75s319-51 468 2 247 70 385 6 179-28 257-7" fill="none" stroke="url(#wave)" stroke-width="2.5" filter="url(#glow)"/>
+  <path d="M0 111c204-48 315 47 491 0s311-37 464 3 260 40 385-3 186-15 260 0" fill="none" stroke="#00E5FF" stroke-opacity=".4"/>
+  <g fill="#B7F6FF" filter="url(#glow)"><circle cx="145" cy="57" r="2.5"/><circle cx="372" cy="98" r="2"/><circle cx="623" cy="55" r="2.5"/><circle cx="830" cy="89" r="2"/><circle cx="1104" cy="106" r="2.5"/><circle cx="1371" cy="73" r="2"/><circle cx="1515" cy="64" r="2"/></g>
+</svg>
